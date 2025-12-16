@@ -1,92 +1,110 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="BANNER_IMAGE_LINK_HERE"align="center">👋 Hey, I'm Dhruval Vaishnav</h1>
-<h3 align="center">Senior Software Engineer • Java • Spring • Microservices • Kafka • ReactJS</h3>
+  <img src="BANNER_IMAGE_LINK_HERE" alt="Dhruval Vaishnav Bannerruval Vaishnav</h1>
+<h3 align="center">Senior / Lead Software Engineer • Java • Spring • Microservices • Kafka • ReactJS</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badgec="https://img.shields.io/badge/Spring%20Boot-Professional-brightgreen-the-badge
-  <img src="https://img.shields.io/badge/Microservices-Architecture-blueviolet?styleadge
-  <img src="https://img.shields.io/badge/Apache%20Kafka-Distributed%20Systems-red-the-badge
+  <img src="https://img.shields.io/badge/Java-Expert-orange?style=for-the-badgec="https://img.shields.io/badge/Spring%20Boot-Professional-brightgreen?style=for-the-bps://img.shields.io/badge/Microservices-Architecture-blueviolet?style=for-the-badge
+  <img src="https://img.shields.io/badge/Apache%20Kafka-Event%20Streaming=for-the-badge
+  <img src="https://img.shields.io/badge/ReactJS-Frontend-blue?styleadge
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a passionate and detail‑oriented **Senior Software Engineer** with **7+ years of experience** building high‑performance, scalable systems across diverse industries like:
+I am a dedicated **Senior Software Engineer** with **7+ years of experience**, passionate about building scalable systems, improving architecture, and delivering enterprise-grade applications.
 
-- 🚀 **Adobe Inc.** — CRM engineering using Kafka + Microservices  
-- 🛒 **EPAM Systems** — E‑commerce platform engineering  
-- 🛰 **ISRO** — precision-based engineering projects  
-- 🏛 **RBI** — critical applications in high‑compliance environments  
-- 🏆 **Bacancy Software LLP** — *Top Performer Award 2019*
+My journey began with a **Bachelor's degree in Information Technology** from LJ Institute of Engineering & Technology, after which I progressed through increasingly challenging and impactful roles:
 
-I love solving complex system problems, improving performance, and designing clean, scalable architectures.
+- ☕ **Software Infocrafts (IIM Ahmedabad)** - Java Software Developer Intern  
+- 🏛 **Reserve Bank of India (RBI)** - Application Support Executive  
+- 🛰 **Indian Space Research Organization (ISRO)** - Software Engineer contributing to high‑precision, mission‑critical systems as Team lead 
+- 🏆 **Bacancy Software LLP** - Software Engineer  
+  - *Awarded Top Performer*  
+  - Delivered diverse global projects  
+- 🧩 **EPAM Systems** - Software Engineer A2
+  - Built advanced technical modules for e‑commerce platforms  
+- 🚀 **Adobe Inc.** - Senior Software Engineer  
+  - Working on CRM product engineering  
+  - Leveraging **Apache Kafka, Java, Spring, Microservices**  
+  - Consistently optimizing features for reliability & scale  
+  - Contributed to **30% increase in customer retention** through strong communication & delivery excellence
+
+I care deeply about writing clean code, building resilient architectures, and solving complex technical problems that create real business value.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Expertise
 
-### **Backend & Core Engineering**
+### **Backend Engineering**
 - Java • Advanced Java • JavaFX  
 - Spring Boot • Spring MVC  
-- REST APIs • JAX‑RS (Jersey)  
 - JPA • Hibernate  
+- REST APIs • JAX‑RS (Jersey)
 
 ### **Architecture & Distributed Systems**
-- Microservices  
-- Event‑Driven Systems  
-- Apache Kafka  
-- High Availability & Scalability  
+- Microservices Architecture  
+- Apache Kafka (Event Streaming)  
+- Messaging & Async Systems  
+- High Availability & Scalability
 
-### **Frontend & Other Skills**
-- React JS  
-- CI/CD • DevOps Fundamentals  
-- System Design  
-- Team Leadership & Mentoring  
+### **Frontend & Tools**
+- ReactJS  
+- Git • CI/CD • DevOps Basics  
+- System Design & Architectural Patterns  
+
+### **Soft Skills**
+- Team Leadership  
+- Client Communication  
+- Cross‑functional Collaboration  
 
 ---
 
 ## 🚀 Career Highlights
 
-- 📈 Improved customer retention by **30%** through strong communication and delivery.  
-- 🧩 Built & optimized CRM features at **Adobe**, handling large user‑scale events.  
-- ⚙ Designed microservice‑based modules for EPAM’s global e‑commerce clients.  
-- 🏆 Recognized as **Top Performer (2019)** at Bacancy Software LLP.  
-- 🛰 Contributed to mission‑critical R&D projects at **ISRO**.  
+- ⭐ Improved **customer retention by 30%** at Adobe through clear communication & technical delivery  
+- ⭐ Designed & optimized CRM features using Kafka + Microservices  
+- ⭐ Built scalable modules for global e‑commerce clients at EPAM  
+- ⭐ Recognized as **Top Performer (2019)** at Bacancy Software  
+- ⭐ Contributed to critical R&D and precision engineering systems at **ISRO**  
+- ⭐ Strengthened enterprise applications during my time at **RBI**
 
 ---
 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvalvaishnav&theme=tokyonborder=true
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvalvaishnav&theme=tokyonight&hideue
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvalvaishnav&pact&theme=tokyonight&hide_border=true
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvalvaishnav&layout=compact&theme=tokyonborder=true
 </p>
 
 ---
 
 ## ✨ Personal Side
 
-When I’m not writing scalable code, you’ll find me:
+Outside of engineering, I enjoy:
 
 - 💃 Dancing  
-- 🏋️ Exercising  
-- 📚 Lost in books  
-- 🎧 Relaxing with music  
+- 🏋️ Fitness & Exercise  
+- 📚 Reading  
+- 🎧 Music for relaxation  
+
+These keep me balanced, creative, and energized.
 
 ---
 
 ## 📫 Contact Me
 
-- 📍 Gandhinagar, Gujarat — 382006  
+- 📍 Gandhinagar, Gujarat - 382006  
 - 📞 +91 82005 74394  
 - ✉️ dhruvrajx3@gmail.com  
 
 ---
 
-<h3 align="center">🚀 Open to Senior & Lead Software Engineer Opportunities</h3
+<h3 align="center">🚀 Open to Senior & Lead Software Engineer Global Opportunities
+
