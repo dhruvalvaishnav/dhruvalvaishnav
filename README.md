@@ -2,10 +2,10 @@
 
 # 👋 Hey there, I'm Dhruval Vaishnav
 
-### Senior Software Engineer | Backend Specialist | Microservices Architect
+### Senior Software Engineer | Software Specialist | Microservices Architect
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=7%2B+Years+of+Backend+Engineering;Spring+Boot+%7C+Kafka+%7C+Microservices;Building+Scalable+Systems;From+ISRO+to+Adobe+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=7%2B+Years+of+Software+Engineering;Spring+Boot+%7C+Kafka+%7C+Microservices;Building+Scalable+Systems;From+ISRO+to+Adobe+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvalvaishnav-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/dhruvalvaishnav)
@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Senior Software Engineer based in Gandhinagar, India, with over **7 years** of experience building **backend systems, microservices, and full-stack applications**. I've had the privilege of working with organizations ranging from **ISRO** 🛰️ to **Adobe Inc.** 🎨
+I'm a Senior Software Engineer based in Gujarat, India, with over **7 years** of experience building **backend systems, microservices and full-stack applications**. I've had the privilege of working with organizations ranging from **ISRO** 🛰️ to **Adobe Inc.** 🎨
 
 **Currently:** Building enterprise CRM solutions at **Adobe Inc.** with Spring Boot, Apache Kafka, and AWS
 
@@ -33,7 +33,7 @@ I'm a Senior Software Engineer based in Gandhinagar, India, with over **7 years*
 
 | 💼 Experience | 🏢 Companies | 🛠️ Tech Stack | 🌍 Location |
 |:---:|:---:|:---:|:---:|
-| 7+ Years | Adobe, EPAM, ISRO, RBI | Java, Spring, Kafka | Gandhinagar, India |
+| 7+ Years | Adobe, EPAM, ISRO, RBI | Java, Spring, Kafka | Gujarat, India |
 
 </div>
 
@@ -44,37 +44,6 @@ I'm a Senior Software Engineer based in Gandhinagar, India, with over **7 years*
 I build scalable backend systems and microservices, mostly with **Java**, **Spring Boot**, and **Apache Kafka**. I've worked across different domains - CRM, eCommerce, banking, telecom, and even satellite communication systems at ISRO.
 
 **Currently:** Senior Software Engineer at **Adobe Inc.** (via TEKsystems) working on CRM products with Spring Boot microservices, AWS, and Kafka.
-
-### Work Experience
-
-**Adobe Inc.** — Senior Software Engineer *(Jan 2023 - Present)*
-- Building and maintaining CRM microservices using Java, Spring Boot, and Apache Kafka
-- Working with Microsoft Dynamics 365 integrations and AWS cloud infrastructure (EC2, RDS, S3)
-- Implemented CI/CD pipelines that improved development efficiency by 35%
-- Reduced infrastructure costs by 20% through AWS optimization
-- Got the **Hats Off award** for collaboration and contributions across teams
-
-**EPAM Systems** — Software Engineer A2 *(July 2022 - Dec 2022)*
-- Built microservices for large-scale eCommerce platforms
-- Fixed critical customer issues and optimized system performance
-- Worked with distributed teams across multiple regions
-
-**Bacancy Software LLP** — Software Engineer *(Mar 2021 - June 2022)*
-- Developed backend services using Spring Boot, Microservices, and Camunda
-- Built testing frameworks with Mockito and REST templates
-- Projects spanned banking, real estate, and telecom domains
-- Streamlined CI/CD processes for faster releases
-
-**Space Application Center (ISRO)** — Software Engineer *(Dec 2018 - Feb 2021)*
-- Developed a Learning Management System for satellite communication and remote education
-- Built real-time chat and video conferencing features using TCP/UDP socket programming
-- Created desktop applications with JavaFX
-- Deployed software to remote locations via FTP
-- Participated in monthly user feedback sessions to improve the product
-
-**Reserve Bank of India** — Application Support Executive *(Sep 2018 - Dec 2018)*
-- Maintained Intellect CBS software for banking operations
-- Trained banking staff and provided technical support
 
 ---
 
@@ -142,9 +111,9 @@ Built complex backend services with workflow automation using Camunda, serving b
 
 ## 📜 Certifications & Training
 
-- ✅ **Certified Java Developer** — Softwan Infocrafts, IIM Ahmedabad
-- 🎓 **Bachelor of Engineering (IT)** — L J Institute (CGPA: 8.4/10)
-- 💼 **Professional Training** — Reserve Bank of India (Banking Systems)
+- ✅ **Certified Java Developer** - Softwan Infocrafts, IIM Ahmedabad
+- 🎓 **Bachelor of Engineering (IT)** - L J Institute (CGPA: 8.4/10)
+- 💼 **Professional Training** - Reserve Bank of India (Banking Systems)
 
 ---
 
@@ -227,14 +196,14 @@ I believe in sharing knowledge with the community. Here are some topics I'm pass
 
 When I'm not architecting microservices or debugging Kafka streams, you'll find me:
 
-- 💃 **Dancing** — My favorite way to destress and stay energetic
-- 🏋️ **Fitness** — Regular workouts to keep mind and body sharp
-- 📚 **Reading** — Love getting lost in a good book
-- 🤝 **Volunteering** — Contributing to Street Cause Ahmedabad
-- 🎓 **Mentoring** — Helping aspiring developers kickstart their careers
-- ☕ **Coffee Conversations** — Always up for tech discussions over coffee
+- 💃 **Dancing** - My favorite way to destress and stay energetic
+- 🏋️ **Fitness** - Regular workouts to keep mind and body sharp
+- 📚 **Reading** - Love getting lost in a good book
+- 🤝 **Volunteering** - Contributing to Street Cause Ahmedabad
+- 🎓 **Mentoring** - Helping aspiring developers kickstart their careers
+- ☕ **Coffee Conversations** - Always up for tech discussions over coffee
 
-*Fun Fact: I've worked on satellite communication systems at ISRO and banking systems at RBI — from space to money! 🚀💰*
+*Fun Fact: I've worked on satellite communication systems at ISRO and banking systems at RBI - from space to money! 🚀💰*
 
 ---
 
@@ -252,11 +221,11 @@ When I'm not architecting microservices or debugging Kafka streams, you'll find 
 
 I'm always open to discussing:
 
-✅ **Backend Architecture** — Microservices design patterns, scalability challenges  
-✅ **Open Source Contributions** — Java/Spring projects, developer tools  
-✅ **Technical Mentorship** — Helping developers grow their skills  
-✅ **Interesting Projects** — Especially in fintech, edtech, or social impact  
-✅ **Job Opportunities** — Senior/Lead roles in backend or full-stack development
+✅ **Backend Architecture** - Microservices design patterns, scalability challenges  
+✅ **Open Source Contributions** - Java/Spring projects, developer tools  
+✅ **Technical Mentorship** - Helping developers grow their skills  
+✅ **Interesting Projects** - Especially in fintech, edtech, or social impact  
+✅ **Job Opportunities** - Senior/Lead roles in backend or full-stack development
 
 ### 📫 Reach Out
 
@@ -292,4 +261,3 @@ I'm always open to discussing:
 ⭐ **If you find my work interesting, don't forget to star my repositories!**
 
 </div>
-
