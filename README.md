@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Dhruval Vaishnav
 
-### Senior Software Engineer | Software Specialist | Microservices Architect
+### Senior Software Engineer | Team Lead | Microservices Architect
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=7%2B+Years+of+Software+Engineering;Spring+Boot+%7C+Kafka+%7C+Microservices;Building+Scalable+Systems;From+ISRO+to+Adobe+%F0%9F%9A%80" alt="Typing SVG" />
@@ -25,7 +25,7 @@ I'm a Senior Software Engineer based in Gujarat, India, with over **7 years** of
 
 **Previously:** EPAM Systems • Bacancy Software • ISRO • Reserve Bank of India
 
-**Specialization:** Java • Spring Boot • Microservices • Apache Kafka • AWS • System Design
+**Specialization:** Java • Spring Boot • Microservices • Apache Kafka • AWS • System Design • Team Leadership
 
 <div align="center">
 
@@ -76,11 +76,12 @@ I build scalable backend systems and microservices, mostly with **Java**, **Spri
 
 ```diff
 + 7+ years building production-grade systems at Fortune 500 companies
++ Proven leadership experience as Team Lead at ISRO
 + Experience across diverse domains: Space, Banking, E-commerce, CRM
 + Proven track record: 35% efficiency gains, 20% cost reduction
 + Award-winning engineer (Hats Off Award at Adobe)
 + From mission-critical ISRO projects to enterprise Adobe solutions
-+ Strong focus on mentorship and team collaboration
++ Strong focus on mentorship, team leadership and collaboration
 ```
 
 ---
@@ -111,9 +112,9 @@ Built complex backend services with workflow automation using Camunda, serving b
 
 ## 📜 Certifications & Training
 
-- ✅ **Certified Java Developer** - Softwan Infocrafts, IIM Ahmedabad
-- 🎓 **Bachelor of Engineering (IT)** - L J Institute (CGPA: 8.4/10)
-- 💼 **Professional Training** - Reserve Bank of India (Banking Systems)
+- ✅ **Certified Java Developer** — Softwan Infocrafts, IIM Ahmedabad
+- 🎓 **Bachelor of Engineering (IT)** — L J Institute (CGPA: 8.4/10)
+- 💼 **Professional Training** — Reserve Bank of India (Banking Systems)
 
 ---
 
@@ -137,35 +138,14 @@ CGPA: 8.4/10
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=dhruvalvaishnav&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
 - 🏅 **Hats Off Award** at Adobe Inc. for exceptional performance and cross-team collaboration
+- 👨‍💼 **Team Lead** at ISRO - Led development team for satellite communication projects
 - 📜 **Certified Java Developer** from Softwan Infocrafts, Ahmedabad
 - 📈 Improved development efficiency by **35%** through optimized CI/CD pipelines
 - 💰 Reduced infrastructure costs by **20%** with AWS optimization
 - 🛰 Built real-time communication systems for ISRO's education initiatives
 - ❤️ Volunteer at **Street Cause Ahmedabad** - raised funds and distributed groceries during COVID-19
 - ⚡ **Energetic Team Player** recognition at Bacancy Software LLP
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Dhruval's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvalvaishnav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvalvaishnav&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvalvaishnav&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvalvaishnav&theme=tokyo-night&hide_border=true)
-
-</div>
 
 ---
 
@@ -196,20 +176,20 @@ I believe in sharing knowledge with the community. Here are some topics I'm pass
 
 When I'm not architecting microservices or debugging Kafka streams, you'll find me:
 
-- 💃 **Dancing** - My favorite way to destress and stay energetic
-- 🏋️ **Fitness** - Regular workouts to keep mind and body sharp
-- 📚 **Reading** - Love getting lost in a good book
-- 🤝 **Volunteering** - Contributing to Street Cause Ahmedabad
-- 🎓 **Mentoring** - Helping aspiring developers kickstart their careers
-- ☕ **Coffee Conversations** - Always up for tech discussions over coffee
+- 💃 **Dancing** — My favorite way to destress and stay energetic
+- 🏋️ **Fitness** — Regular workouts to keep mind and body sharp
+- 📚 **Reading** — Love getting lost in a good book
+- 🤝 **Volunteering** — Contributing to Street Cause Ahmedabad
+- 🎓 **Mentoring** — Helping aspiring developers kickstart their careers
+- ☕ **Coffee Conversations** — Always up for tech discussions over coffee
 
-*Fun Fact: I've worked on satellite communication systems at ISRO and banking systems at RBI - from space to money! 🚀💰*
+*Fun Fact: I've worked on satellite communication systems at ISRO and banking systems at RBI — from space to money! 🚀💰*
 
 ---
 
 ## 💡 What I'm Interested In
 
-- Mentoring junior developers
+- Leading and mentoring development teams
 - Solving complex technical problems
 - Microservices architecture and distributed systems
 - Contributing to open source
@@ -221,11 +201,13 @@ When I'm not architecting microservices or debugging Kafka streams, you'll find 
 
 I'm always open to discussing:
 
-✅ **Backend Architecture** - Microservices design patterns, scalability challenges  
-✅ **Open Source Contributions** - Java/Spring projects, developer tools  
-✅ **Technical Mentorship** - Helping developers grow their skills  
-✅ **Interesting Projects** - Especially in fintech, edtech, or social impact  
-✅ **Job Opportunities** - Senior/Lead roles in backend or full-stack development
+✅ **Backend Architecture** — Microservices design patterns, scalability challenges  
+✅ **Open Source Contributions** — Java/Spring projects, developer tools  
+✅ **Technical Mentorship** — Helping developers grow their skills  
+✅ **Interesting Projects** — Especially in fintech, edtech, or social impact  
+✅ **Leadership Opportunities** — Senior/Lead/Team Lead roles in backend or full-stack development
+
+**Leadership Experience:** Successfully led development teams at ISRO on mission-critical projects. I bring strong technical expertise combined with proven team leadership and mentoring abilities.
 
 ### 📫 Reach Out
 
