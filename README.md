@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Dhruval Vaishnav
 
-### Senior Software Engineer | Team Lead | Microservices Architect
+### Senior Software Engineer | Software Architect | Team Lead | Microservices Architect
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=7%2B+Years+of+Software+Engineering;Spring+Boot+%7C+Kafka+%7C+Microservices;Building+Scalable+Systems;From+ISRO+to+Adobe+%F0%9F%9A%80" alt="Typing SVG" />
@@ -25,7 +25,7 @@ I'm a Senior Software Engineer based in Gujarat, India, with over **7 years** of
 
 **Previously:** EPAM Systems • Bacancy Software • ISRO • Reserve Bank of India
 
-**Specialization:** Java • Spring Boot • Microservices • Apache Kafka • AWS • System Design • Team Leadership
+**Specialization:** Java • Spring Boot • Microservices • Apache Kafka • ReactJS • AWS • System Design • Team Leadership
 
 <div align="center">
 
@@ -33,7 +33,7 @@ I'm a Senior Software Engineer based in Gujarat, India, with over **7 years** of
 
 | 💼 Experience | 🏢 Companies | 🛠️ Tech Stack | 🌍 Location |
 |:---:|:---:|:---:|:---:|
-| 7+ Years | Adobe, EPAM, ISRO, RBI | Java, Spring, Kafka | Gujarat, India |
+| 7+ Years | Adobe, EPAM, ISRO, RBI | Java, Spring, Kafka, ReactJS | Gujarat, India |
 
 </div>
 
@@ -89,7 +89,7 @@ I build scalable backend systems and microservices, mostly with **Java**, **Spri
 ## 🚀 Featured Projects
 
 ### 🏦 CRM Microservices Platform (Adobe Inc.)
-Building enterprise-grade CRM solutions with Spring Boot microservices, Apache Kafka for event streaming, and Microsoft Dynamics 365 integration. Deployed on AWS with automated CI/CD pipelines.
+Building enterprise-grade CRM solutions with Spring Boot microservices, Apache Kafka for event streaming and Microsoft Dynamics 365 integration. Deployed on AWS with automated CI/CD pipelines build on Docker and Kubernetes.
 
 **Tech:** Java, Spring Boot, Kafka, MySQL, AWS, D365
 
@@ -112,9 +112,9 @@ Built complex backend services with workflow automation using Camunda, serving b
 
 ## 📜 Certifications & Training
 
-- ✅ **Certified Java Developer** — Softwan Infocrafts, IIM Ahmedabad
-- 🎓 **Bachelor of Engineering (IT)** — L J Institute (CGPA: 8.4/10)
-- 💼 **Professional Training** — Reserve Bank of India (Banking Systems)
+- ✅ **Certified Java Developer** - Softwan Infocrafts, IIM Ahmedabad
+- 🎓 **Bachelor of Engineering (IT)** - L J Institute (CGPA: 8.4/10)
+- 💼 **Professional Training** - Reserve Bank of India (Banking Systems)
 
 ---
 
@@ -176,12 +176,11 @@ I believe in sharing knowledge with the community. Here are some topics I'm pass
 
 When I'm not architecting microservices or debugging Kafka streams, you'll find me:
 
-- 💃 **Dancing** — My favorite way to destress and stay energetic
-- 🏋️ **Fitness** — Regular workouts to keep mind and body sharp
-- 📚 **Reading** — Love getting lost in a good book
-- 🤝 **Volunteering** — Contributing to Street Cause Ahmedabad
-- 🎓 **Mentoring** — Helping aspiring developers kickstart their careers
-- ☕ **Coffee Conversations** — Always up for tech discussions over coffee
+- 🏋️ **Fitness** - Regular workouts to keep mind and body sharp
+- 📚 **Reading** - Love getting lost in a good book
+- 🤝 **Volunteering** - Contributing to Street Cause Ahmedabad
+- 🎓 **Mentoring** - Helping aspiring developers kickstart their careers
+- ☕ **Coffee Conversations** - Always up for tech discussions over coffee
 
 *Fun Fact: I've worked on satellite communication systems at ISRO and banking systems at RBI — from space to money! 🚀💰*
 
@@ -201,20 +200,19 @@ When I'm not architecting microservices or debugging Kafka streams, you'll find 
 
 I'm always open to discussing:
 
-✅ **Backend Architecture** — Microservices design patterns, scalability challenges  
-✅ **Open Source Contributions** — Java/Spring projects, developer tools  
-✅ **Technical Mentorship** — Helping developers grow their skills  
-✅ **Interesting Projects** — Especially in fintech, edtech, or social impact  
-✅ **Leadership Opportunities** — Senior/Lead/Team Lead roles in backend or full-stack development
+✅ **Backend Architecture** - Microservices design patterns, scalability challenges  
+✅ **Open Source Contributions** - Java/Spring projects, developer tools  
+✅ **Technical Mentorship** - Helping developers grow their skills  
+✅ **Interesting Projects** - Especially in fintech, edtech, or social impact  
+✅ **Leadership Opportunities** - Senior/Lead/Team Lead roles in backend or full-stack development
 
 **Leadership Experience:** Successfully led development teams at ISRO on mission-critical projects. I bring strong technical expertise combined with proven team leadership and mentoring abilities.
 
 ### 📫 Reach Out
 
 📧 **Email:** dhruvrajx3@gmail.com  
-📱 **Phone:** +91-82005 74394  
 🔗 **LinkedIn:** [linkedin.com/in/dhruvalvaishnav](https://linkedin.com/in/dhruvalvaishnav)  
-📍 **Location:** Gandhinagar, Gujarat, India
+📍 **Location:** Gujarat, India
 
 💼 *Open to remote work and relocation opportunities worldwide*
 
@@ -234,7 +232,7 @@ I'm always open to discussing:
 
 ---
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
 **Thanks for visiting! Let's build something amazing together.** 🚀
 
