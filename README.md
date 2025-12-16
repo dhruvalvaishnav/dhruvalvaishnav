@@ -182,7 +182,7 @@ When I'm not architecting microservices or debugging Kafka streams, you'll find 
 - 🎓 **Mentoring** - Helping aspiring developers kickstart their careers
 - ☕ **Coffee Conversations** - Always up for tech discussions over coffee
 
-*Fun Fact: I've worked on satellite communication systems at ISRO and banking systems at RBI — from space to money! 🚀💰*
+*Fun Fact: I've worked on satellite communication systems at ISRO and banking systems at RBI - from space to money! 🚀💰*
 
 ---
 
