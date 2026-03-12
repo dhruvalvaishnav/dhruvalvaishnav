@@ -1,243 +1,162 @@
 <div align="center">
 
-# 👋 Hey there, I'm Dhruval Vaishnav
+# 👋 Hi, I'm Dhruval Vaishnav
 
-### Senior Software Engineer | Software Architect | Team Lead | Microservices Architect
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Senior+Software+Engineer+%7C+7%2B+Years;Spring+Boot+%7C+Kafka+%7C+Microservices;From+ISRO+%F0%9F%9B%B0%EF%B8%8F+to+Adobe+%F0%9F%8E%A8;Building+Scalable+Systems+at+Scale;Open+to+EU+Opportunities+%F0%9F%87%AA%F0%9F%87%BA)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=7%2B+Years+of+Software+Engineering;Spring+Boot+%7C+Kafka+%7C+Microservices;Building+Scalable+Systems;From+ISRO+to+Adobe+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvalvaishnav-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/dhruvalvaishnav)
-[![Email](https://img.shields.io/badge/Email-dhruvrajx3@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhruvrajx3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-dhruvalvaishnav-100000?style=flat-square&logo=github)](https://github.com/dhruvalvaishnav)
-[![Location](https://img.shields.io/badge/Location-Gandhinagar,_India-success?style=flat-square&logo=google-maps)](https://maps.google.com/?q=Gandhinagar,Gujarat,India)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dhruvalvaishnav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvalvaishnav)
+[![Medium](https://img.shields.io/badge/Medium-@vdhruval-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vdhruval)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dhruvalvaishnav.github.io/dhruvalvaishnav/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvrajx3@gmail.com)
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=dhruvalvaishnav&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+&nbsp;
+[![](https://img.shields.io/badge/🌍_Open_to-EU_Relocation_%26_Remote-2ea44f?style=for-the-badge)](https://linkedin.com/in/dhruvalvaishnav)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-I'm a Senior Software Engineer based in Gujarat, India, with over **7 years** of experience building **backend systems, microservices and full-stack applications**. I've had the privilege of working with organizations ranging from **ISRO** 🛰️ to **Adobe Inc.** 🎨
+## 🧑‍💻 About Me
 
-**Currently:** Building enterprise CRM solutions at **Adobe Inc.** with Spring Boot, Apache Kafka, and AWS
+- 🏢 **Currently** Senior Engineer @ **Adobe Inc.** (via TEKsystems)
+- 🛰️ **Ex-ISRO** — Built satellite communication systems
+- 🏦 **Ex-EPAM, Bacancy, RBI** — Banking, Telecom, eCommerce
+- ☕ **7+ years** in Java, Spring Boot & Microservices
+- 🏆 **Hats Off Award** winner at Adobe
+- 🌍 **Actively seeking** Senior/Lead roles in **EU** (Germany 🇩🇪, Netherlands 🇳🇱, Austria 🇦🇹)
+- 🇩🇪 Learning German (A1 → B1 in progress)
+- ✍️ Writing about backend engineering on **[Medium](https://medium.com/@vdhruval)**
 
-**Previously:** EPAM Systems • Bacancy Software • ISRO • Reserve Bank of India
+<br clear="right"/>
 
-**Specialization:** Java • Spring Boot • Microservices • Apache Kafka • ReactJS • AWS • System Design • Team Leadership
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 📈 Quick Stats
+**Backend & Core**
 
-| 💼 Experience | 🏢 Companies | 🛠️ Tech Stack | 🌍 Location |
-|:---:|:---:|:---:|:---:|
-| 7+ Years | Adobe, EPAM, ISRO, RBI | Java, Spring, Kafka, ReactJS | Gujarat, India |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Messaging & Cloud**
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+**Frontend & Database**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 💼 What I Do
+## 🚀 Career Highlights
 
-I build scalable backend systems and microservices, mostly with **Java**, **Spring Boot**, and **Apache Kafka**. I've worked across different domains - CRM, eCommerce, banking, telecom, and even satellite communication systems at ISRO.
+<div align="center">
 
-**Currently:** Senior Software Engineer at **Adobe Inc.** (via TEKsystems) working on CRM products with Spring Boot microservices, AWS, and Kafka.
+| 🏢 Company | 🎯 Role | 🛠️ Impact |
+|---|---|---|
+| **Adobe Inc.** 🎨 | Senior Software Engineer | Hats Off Award · Kafka microservices · 20% cost reduction |
+| **EPAM Systems** 🌐 | Software Engineer | eCommerce @ millions of requests/day |
+| **ISRO** 🛰️ | Team Lead | Satellite LMS · Real-time socket comms · Team leadership |
+| **Bacancy Software** 🏦 | Software Engineer | Banking & Telecom · Camunda workflows |
+| **Reserve Bank of India** 🏛️ | Trainee | Banking systems & financial infrastructure |
 
----
-
-## 🛠 Tech Stack & Proficiency
-
-**Expert Level:**
-- Java, Spring Framework, Spring Boot, Microservices Architecture
-- RESTful APIs, Hibernate/JPA
-- MySQL, Git
-
-**Advanced:**
-- Apache Kafka, Spring Cloud
-- React JS, JavaScript
-- AWS (EC2, RDS, S3), CI/CD Pipelines
-- Socket Programming, JAX-RS (Jersey)
-
-**Working Knowledge:**
-- Docker, Microsoft Dynamics 365
-- Camunda, JavaFX, WebRTC
-- SonarQube, Splunk, Bamboo
-
-**Tools I Use Daily:**
-- IntelliJ IDEA, VS Code, Git, Bitbucket
-- Jira, Trello, Postman
-- PCF/Moonbeam, AWS Console
+</div>
 
 ---
 
-## 🌟 What Sets Me Apart
+## 📊 GitHub Stats
 
-```diff
-+ 7+ years building production-grade systems at Fortune 500 companies
-+ Proven leadership experience as Team Lead at ISRO
-+ Experience across diverse domains: Space, Banking, E-commerce, CRM
-+ Proven track record: 35% efficiency gains, 20% cost reduction
-+ Award-winning engineer (Hats Off Award at Adobe)
-+ From mission-critical ISRO projects to enterprise Adobe solutions
-+ Strong focus on mentorship, team leadership and collaboration
-```
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvalvaishnav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvalvaishnav&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 
-## 🚀 Featured Projects
+</div>
 
-### 🏦 CRM Microservices Platform (Adobe Inc.)
-Building enterprise-grade CRM solutions with Spring Boot microservices, Apache Kafka for event streaming and Microsoft Dynamics 365 integration. Deployed on AWS with automated CI/CD pipelines build on Docker and Kubernetes.
+<div align="center">
 
-**Tech:** Java, Spring Boot, Kafka, MySQL, AWS, D365
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvalvaishnav&theme=tokyonight&hide_border=true)
 
-### 🛰 Learning Management System for Satellite Communication (ISRO)
-Developed a complete LMS with real-time video/audio conferencing capabilities for remote education via satellite. Built custom TCP/UDP socket programming for communication protocols.
-
-**Tech:** Java, JavaFX, Socket Programming, FTP
-
-### 🛒 eCommerce Platform Services (EPAM)
-Designed and deployed scalable microservices for high-traffic eCommerce applications handling millions of requests.
-
-**Tech:** Spring Boot, Microservices, React JS
-
-### 🏛 Banking & Telecom Solutions (Bacancy)
-Built complex backend services with workflow automation using Camunda, serving banking and telecommunication clients.
-
-**Tech:** Spring Boot, Camunda, JAX-RS, React JS
+</div>
 
 ---
 
-## 📜 Certifications & Training
+## ✍️ Latest on Medium
 
-- ✅ **Certified Java Developer** - Softwan Infocrafts, IIM Ahmedabad
-- 🎓 **Bachelor of Engineering (IT)** - L J Institute (CGPA: 8.4/10)
-- 💼 **Professional Training** - Reserve Bank of India (Banking Systems)
+<!-- Articles auto-updated. Last refresh: 2025 -->
+| 📝 Article | 🏷️ Topic |
+|---|---|
+| [Spring Boot Validation — Stop Bad Data Before It Hits Your DB](https://medium.com/@vdhruval/spring-boot-validation-stop-bad-data-before-it-hits-your-database-581820f93f38) | Spring Boot |
+| [Exception Handling in Spring Boot — Do It the Right Way](https://medium.com/@vdhruval/exception-handling-in-spring-boot-do-it-the-right-way-de66be3860f5) | Spring Boot |
+| [How to Connect Spring Boot to a Database Using JPA](https://medium.com/@vdhruval/how-to-connect-spring-boot-to-a-database-using-jpa-beginners-guide-b140037498dc) | Spring Boot · JPA |
+| [How to Build Your First REST API with Spring Boot](https://medium.com/@vdhruval/how-to-build-your-first-rest-api-with-spring-boot-step-by-step-636fb155306f) | REST · Spring Boot |
+| [Know Spring Boot Step by Step](https://medium.com/@vdhruval/know-spring-boot-step-by-step-in-2023-9c2fe447aaea) | Spring Boot |
 
----
-
-## 📚 Currently Learning & Exploring
-
-- Advanced Kafka patterns and event-driven architectures
-- Kubernetes and container orchestration
-- Cloud-native application design patterns
-- System design for large-scale distributed systems
-- AI/ML integration with backend services
+➡️ **[All articles on Medium →](https://medium.com/@vdhruval)**
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-**Bachelor of Engineering in Information Technology**  
-L J Institute of Engineering and Technology *(2014 - 2018)*  
-CGPA: 8.4/10
-
----
-
-## 🏆 Achievements & Recognition
-
-- 🏅 **Hats Off Award** at Adobe Inc. for exceptional performance and cross-team collaboration
-- 👨‍💼 **Team Lead** at ISRO - Led development team for satellite communication projects
-- 📜 **Certified Java Developer** from Softwan Infocrafts, Ahmedabad
-- 📈 Improved development efficiency by **35%** through optimized CI/CD pipelines
-- 💰 Reduced infrastructure costs by **20%** with AWS optimization
-- 🛰 Built real-time communication systems for ISRO's education initiatives
-- ❤️ Volunteer at **Street Cause Ahmedabad** - raised funds and distributed groceries during COVID-19
-- ⚡ **Energetic Team Player** recognition at Bacancy Software LLP
-
----
-
-## ✍️ Writing & Sharing Knowledge
-
-I believe in sharing knowledge with the community. Here are some topics I'm passionate about:
-
-- Building scalable microservices architectures
-- Apache Kafka best practices and patterns
-- CI/CD pipeline optimization
-- Spring Boot performance tuning
-- Real-time communication systems
-
-*Blog coming soon! Follow me for updates.*
+- 🎓 **B.E. Information Technology** — L J Institute of Engineering & Technology *(CGPA: 8.4/10)*
+- ✅ **Certified Java Developer** — Softwan Infocrafts, IIM Ahmedabad
+- 💼 **Professional Training** — Reserve Bank of India
 
 ---
 
 ## 🌍 Languages
 
-- 🇬🇧 English (Fluent)
-- 🇮🇳 Hindi (Native)
-- 🇮🇳 Gujarati (Native)
-- 🇩🇪 German (A1 - Currently Learning)
+🇬🇧 English (Fluent) &nbsp;|&nbsp; 🇮🇳 Hindi (Native) &nbsp;|&nbsp; 🇮🇳 Gujarati (Native) &nbsp;|&nbsp; 🇩🇪 German (A1 — Learning for EU)
 
 ---
 
-## 🎯 Beyond Code
-
-When I'm not architecting microservices or debugging Kafka streams, you'll find me:
-
-- 🏋️ **Fitness** - Regular workouts to keep mind and body sharp
-- 📚 **Reading** - Love getting lost in a good book
-- 🤝 **Volunteering** - Contributing to Street Cause Ahmedabad
-- 🎓 **Mentoring** - Helping aspiring developers kickstart their careers
-- ☕ **Coffee Conversations** - Always up for tech discussions over coffee
-
-*Fun Fact: I've worked on satellite communication systems at ISRO and banking systems at RBI - from space to money! 🚀💰*
-
----
-
-## 💡 What I'm Interested In
-
-- Leading and mentoring development teams
-- Solving complex technical problems
-- Microservices architecture and distributed systems
-- Contributing to open source
-- Volunteering and community work
-
----
-
-## 💬 Let's Collaborate!
-
-I'm always open to discussing:
-
-✅ **Backend Architecture** - Microservices design patterns, scalability challenges  
-✅ **Open Source Contributions** - Java/Spring projects, developer tools  
-✅ **Technical Mentorship** - Helping developers grow their skills  
-✅ **Interesting Projects** - Especially in fintech, edtech, or social impact  
-✅ **Leadership Opportunities** - Senior/Lead/Team Lead roles in backend or full-stack development
-
-**Leadership Experience:** Successfully led development teams at ISRO on mission-critical projects. I bring strong technical expertise combined with proven team leadership and mentoring abilities.
-
-### 📫 Reach Out
-
-📧 **Email:** dhruvrajx3@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/dhruvalvaishnav](https://linkedin.com/in/dhruvalvaishnav)  
-📍 **Location:** Gujarat, India
-
-💼 *Open to remote work and relocation opportunities worldwide*
-
-**Response Time:** Usually within 24 hours
-
----
+## 📫 Let's Connect
 
 <div align="center">
 
-### 🤝 Connect With Me
+I'm **actively looking for Senior Software Engineer / Tech Lead roles in Europe** — remote or relocation.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/dhruvalvaishnav)
-[![Gmail](https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvrajx3@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/dhruvalvaishnav)
+If you're hiring or know someone who is, let's talk!
 
-![Profile Views](https://komarev.com/ghpvc/?username=dhruvalvaishnav&color=blueviolet&style=flat-square&label=Profile+Views)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruvalvaishnav)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvrajx3@gmail.com)
+[![Medium](https://img.shields.io/badge/Follow_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vdhruval)
 
----
+<br/>
 
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+*💬 Response time: usually within 24 hours*
 
-**Thanks for visiting! Let's build something amazing together.** 🚀
+<br/>
 
----
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-⭐ **If you find my work interesting, don't forget to star my repositories!**
+**Thanks for visiting — let's build something great together! 🚀**
 
 </div>
