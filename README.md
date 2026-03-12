@@ -25,7 +25,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Backend Engineering" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ## 🧑‍💻 About Me
 
@@ -34,7 +34,7 @@
 - 🌐 **Ex EPAM Systems** - High-traffic eCommerce microservices
 - 🏦 **Ex Bacancy, RBI** - Banking, Telecom, Workflow Automation
 - ☕ **7+ years** of production Java, Spring Boot & Kafka
-- 📈 Systems handling **100K–500K+ daily requests** in enterprise CRM
+- 📈 Systems handling **100K-500K+ daily requests** in enterprise CRM
 - 🏆 **Hats Off Award** - Adobe Inc.
 - 🌍 Targeting **Senior/Lead Backend roles in EU** - Germany 🇩🇪, Netherlands 🇳🇱, Austria 🇦🇹, Switzerland 🇨🇭
 - 🎓 **EU Blue Card eligible** · B.E. degree **Anabin H+ recognized in Germany**
@@ -98,8 +98,8 @@
 | **Adobe Inc.** 🎨 | Jan 2023 - Jan 2026 | Senior Software Engineer | 100K-500K+ daily requests · Hats Off Award · 35% faster deployments |
 | **EPAM Systems** 🌐 | Jul 2022 - Dec 2022 | Software Engineer A2 | 25% API perf improvement · 99.9% uptime · High-traffic eCommerce |
 | **Bacancy Software** 🏗️ | Mar 2021 - Jun 2022 | Software Engineer (Lead) | 80%+ code quality improvement · Camunda BPMN · CI/CD automation |
-| **ISRO** 🛰️ | Dec 2018 – Jun 2020 | Software Engineer | Mission-critical satellite comms · TCP/UDP real-time systems |
-| **Reserve Bank of India** 🏦 | Sep 2018 – Dec 2018 | Banking Systems Support | Core banking · SQL analysis · Intellect CBS |
+| **ISRO** 🛰️ | Dec 2018 - Jun 2020 | Software Engineer | Mission-critical satellite comms · TCP/UDP real-time systems |
+| **Reserve Bank of India** 🏦 | Sep 2018 - Dec 2018 | Banking Systems Support | Core banking · SQL analysis · Intellect CBS |
 
 </div>
 
@@ -132,7 +132,7 @@ Scalable backend managing territory assignments and compensation workflows acros
 
 **Tech:** Java · Spring Boot · Kafka · AWS · MySQL · Microsoft D365
 
-### 🛰️ Satellite LMS — ISRO EDUSAT *(ISRO · 2018–2020)*
+### 🛰️ Satellite LMS - ISRO EDUSAT *(ISRO · 2018-2020)*
 Learning Management System for India's EDUSAT satellite education initiative. Real-time video/audio conferencing over satellite networks using custom TCP/UDP socket programming.
 
 **Tech:** Java · JavaFX · Socket Programming · Multi-threading · SATCOM
@@ -161,7 +161,7 @@ Learning Management System for India's EDUSAT satellite education initiative. Re
 
 | 📝 Article | 🏷️ Topic |
 |---|---|
-| [Spring Boot Validation — Stop Bad Data Before It Hits Your DB](https://medium.com/@vdhruval/spring-boot-validation-stop-bad-data-before-it-hits-your-database-581820f93f38) | Spring Boot · Validation |
+| [Spring Boot Validation - Stop Bad Data Before It Hits Your DB](https://medium.com/@vdhruval/spring-boot-validation-stop-bad-data-before-it-hits-your-database-581820f93f38) | Spring Boot · Validation |
 | [Exception Handling in Spring Boot — Do It the Right Way](https://medium.com/@vdhruval/exception-handling-in-spring-boot-do-it-the-right-way-de66be3860f5) | Spring Boot · Best Practices |
 | [How to Connect Spring Boot to a Database Using JPA](https://medium.com/@vdhruval/how-to-connect-spring-boot-to-a-database-using-jpa-beginners-guide-b140037498dc) | Spring Boot · JPA |
 | [How to Build Your First REST API with Spring Boot](https://medium.com/@vdhruval/how-to-build-your-first-rest-api-with-spring-boot-step-by-step-636fb155306f) | REST · Spring Boot |
@@ -174,7 +174,7 @@ Learning Management System for India's EDUSAT satellite education initiative. Re
 ## 🎓 Education & Certifications
 
 🎓 **B.E. Information Technology** - L J Institute of Engineering & Technology *(CGPA: 8.4/10 · GPA 3.7/4)*
-> **Degree recognized in Germany (Anabin H+)** — directly eligible for EU Blue Card
+> **Degree recognized in Germany (Anabin H+)** - directly eligible for EU Blue Card
 
 - ✅ **Certified Java Developer** - Softwan Infocrafts, IIM Ahmedabad
 - 🏅 **Hats Off Award** - Adobe Inc.
